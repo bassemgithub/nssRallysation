@@ -1,3 +1,10 @@
+## Required
+
+  - CakePhp 4 
+  - Composer 
+  - Apache
+  - PHP 7
+  - MYSQL
 ## Configuration 
 
 1) `git clone git@github.com:bassemgithub/nssRallysation.git`
